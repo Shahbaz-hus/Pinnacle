@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48467686391",
+    "firebase_url": "https://pinnacle-ads.firebaseio.com",
+    "project_id": "pinnacle-ads",
+    "storage_bucket": "pinnacle-ads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48467686391:android:5c9708dbfe44aee614f4f2",
+        "android_client_info": {
+          "package_name": "com.pinnacle.share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48467686391-lbirb7ojoqple3dmbelo9d7uhidvf8kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyuEZF7jAqH6S0cR-B891J7WsKZINBXnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48467686391-lbirb7ojoqple3dmbelo9d7uhidvf8kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

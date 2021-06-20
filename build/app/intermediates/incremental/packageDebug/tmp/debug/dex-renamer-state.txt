@@ -1,0 +1,7 @@
+#Tue Jul 28 12:11:03 IST 2020
+base.0=D\:\\FLUTTER PROJECTS\\12-july\\expensewhat1-tripname-table-master-8-july\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\FLUTTER PROJECTS\\12-july\\expensewhat1-tripname-table-master-8-july\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex

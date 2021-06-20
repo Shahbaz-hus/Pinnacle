@@ -1,0 +1,4 @@
+# Referenced at D:\FLUTTER PROJECTS\12-july\expensewhat1-tripname-table-master-8-july\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:26
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\FLUTTER PROJECTS\12-july\expensewhat1-tripname-table-master-8-july\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:26
+-keep class io.flutter.app.FlutterApplication { <init>(); }
